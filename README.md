@@ -59,7 +59,7 @@ explore my repos and check out my tech stack below!
 
 ---
 
-## </> repositories
+## </> featured repositories
 
 🔗 [Unwrapping Customer Delight 💄](https://github.com/s-bhatia1216/unwrapping-customer-delight) 
 
