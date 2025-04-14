@@ -60,7 +60,7 @@ explore my repos and check out my tech stack below!
 
 ## </> repositories
 
-🔗 [Unwrapping Customer Delight 💄](https://github.com/zzaneer086/Unwrapping-Customer-Delight) 
+🔗 [Unwrapping Customer Delight 💄]((https://github.com/s-bhatia1216/unwrapping-customer-delight) 
 
 *Collaborative AI Studio Fellowship project with The Estée Lauder Companies.*
 Applied Bayesian Regression Discontinuity modeling with NumPyro and MCMC sampling to evaluate the impact of surprise gift campaigns. Delivered a predictive model showing a $19.11 lift in post-treatment spending and 91.1% ROI.
