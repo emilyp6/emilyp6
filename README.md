@@ -7,7 +7,7 @@
 - 🌱 second year student at Stevens Institute of Technology in Hoboken, NJ
 - 💻 major in computer science, minor in quantitative finance
 - 🧠 concentration in AI and ML
-- 😄 always searching for opportunities to expand my skillset
+- 🔍 always searching for opportunities to expand my skillset
 
 explore my repos and check out my tech stack below!
 
