@@ -1,4 +1,4 @@
-![Typing Title](https://github.com/emilyp6/emilyp6/blob/main/emilyp6.gif)
+
 
 ## Hi there 👋
 
