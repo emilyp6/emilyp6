@@ -60,6 +60,6 @@ explore my repos and check out my tech stack below!
 
 ## </> repositories
 
-🔗 [Unwrapping Customer Delight](https://github.com/zzaneer086/Unwrapping-Customer-Delight)  
+🔗 [Unwrapping Customer Delight 💄](https://github.com/zzaneer086/Unwrapping-Customer-Delight)  
 Contributed to a Break Through Tech AI Studio project involving Bayesian and Frequentist regression models to optimize marketing strategies.  
 Assisted with data cleaning, exploratory data analysis, and model development using NumPyro and Pandas.
