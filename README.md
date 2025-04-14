@@ -9,4 +9,4 @@
 - 🧠 concentration in AI and ML
 - 😄 pronouns: she/her
 
-explore my repos below!
+explore my repos and check out my tech stack below!
