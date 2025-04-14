@@ -19,3 +19,7 @@ explore my repos and check out my tech stack below!
     <img src="https://img.shields.io/badge/GMAIL-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+---
+
+tech stack 
