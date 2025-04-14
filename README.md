@@ -9,4 +9,4 @@
 - 🧠 concentration in AI and ML
 - 😄 pronouns: she/her
 
-<img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> explore my repos below
+<img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/>    explore my repos below!
