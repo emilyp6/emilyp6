@@ -4,7 +4,7 @@
 
 ## about me:
 
-- 🌱 sophomore at Stevens Institute of Technology in Hoboken, NJ
+- 🌱 second year student at Stevens Institute of Technology in Hoboken, NJ
 - 💻 major in computer science, minor in quantitative finance
 - 🧠 concentration in AI and ML
 - 😄 pronouns: she/her
