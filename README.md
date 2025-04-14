@@ -8,3 +8,5 @@
 - 💻 major in computer science, minor in quantitative finance
 - 🧠 concentration in AI and ML
 - 😄 pronouns: she/her
+
+explore my repos below ‼️
