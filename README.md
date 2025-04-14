@@ -22,4 +22,4 @@ explore my repos and check out my tech stack below!
 
 ---
 
-## tech stack 🖥️
+## 🖥️ tech stack 
