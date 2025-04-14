@@ -1,4 +1,6 @@
-![Typing](https://github.com/emilyp6/emilyp6/blob/main/emilyp6.png)
+<p align="center">
+  <img src="https://github.com/emilyp6/emilyp6/blob/main/emilyp6.png" width="300"/>
+</p>
 
 ## Hi there 👋
 
