@@ -67,3 +67,4 @@ Applied Bayesian Regression Discontinuity modeling with NumPyro and MCMC samplin
 
 🔗 [Inclusive Dermatology Classification 🔬](https://github.com/anikaguin/mandelic-acid)
 
+Built a CNN using EfficientNetB0 to classify 21 dermatological conditions across diverse skin tones. Used data augmentation and class weighting to address imbalance, and applied SHAP to interpret model predictions and improve fairness in clinical AI.
