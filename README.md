@@ -22,4 +22,4 @@ explore my repos and check out my tech stack below!
 
 ---
 
- <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> tech stack 
+ <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/>  tech stack
