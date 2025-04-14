@@ -2,7 +2,7 @@
   <img src="https://github.com/emilyp6/emilyp6/blob/main/emilyp6.png" width="300"/>
 </p>
 
-<img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> ## about me:
+## about me: <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> 
 
 - 🌱 second year student at Stevens Institute of Technology in Hoboken, NJ
 - 💻 major in computer science, minor in quantitative finance
