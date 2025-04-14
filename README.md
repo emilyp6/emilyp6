@@ -10,3 +10,12 @@
 - 😄 pronouns: she/her
 
 explore my repos and check out my tech stack below!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emilyprasad" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:emilyprasad4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
