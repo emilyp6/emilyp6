@@ -48,7 +48,7 @@ explore my repos and check out my tech stack below!
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/INTELLIJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/RSTUDIO-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/ORACLE VM-FF0000?style=for-the-badge&logo=virtualbox&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PYTHON IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
