@@ -5,7 +5,7 @@
 ## <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> about me:
 
 - 🌸 an aspiring machine learning engineer!
-- 🌱 second year student at Stevens Institute of Technology in Hoboken, NJ
+- 🌱 third-year student at Stevens Institute of Technology in Hoboken, NJ
 - 💻 major in computer science, minor in quantitative finance
 - 🧠 concentration in AI and ML
 - 🔍 always searching for opportunities to expand my skillset
