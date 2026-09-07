@@ -2,9 +2,9 @@
   <img src="https://github.com/emilyp6/emilyp6/blob/main/emilyp6.png" width="300"/>
 </p>
 
-## <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> about me:
+## About Me:
 
-- 🌸 Computer Science student at Stevens Institute of Technology
+- 🖥️ Computer Science student at Stevens Institute of Technology
 - 📈 Minor in Quantitative Finance
 - 💻 Interested in AI/ML, AI engineering, and data-driven applications
 - 🧠 Experience building ML models, AI tools, and MCP integrations
@@ -23,7 +23,7 @@ Explore my repos and check out my tech stack below!
 
 ---
 
-## 🖥️ tech stack
+## 🖥️ Tech Stack
 
 <div align="center">
 
@@ -74,7 +74,7 @@ Explore my repos and check out my tech stack below!
 
 ---
 
-## </> featured repositories
+## </> Featured Repositories
 
 🔗 [Unwrapping Customer Delight 💄](https://github.com/s-bhatia1216/unwrapping-customer-delight) 
 
