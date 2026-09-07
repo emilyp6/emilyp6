@@ -4,13 +4,13 @@
 
 ## <img src="https://github.com/emilyp6/emilyp6/blob/main/cat.gif" width="50"/> about me:
 
-- 🌸 an aspiring machine learning engineer!
-- 🌱 fourth-year student at Stevens Institute of Technology in Hoboken, NJ
-- 💻 major in computer science, minor in quantitative finance
-- 🧠 concentration in AI and ML
-- 🔍 always searching for opportunities to expand my skillset
+- 🌸 Computer Science student at Stevens Institute of Technology
+- 📈 Minor in Quantitative Finance
+- 💻 Interested in AI/ML, AI engineering, and data-driven applications
+- 🧠 Experience building ML models, AI tools, and MCP integrations
+- 🔍 Currently exploring applications across finance, healthcare, and technology
 
-explore my repos and check out my tech stack below!
+Explore my repos and check out my tech stack below!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emilyprasad" target="_blank">
@@ -23,34 +23,49 @@ explore my repos and check out my tech stack below!
 
 ---
 
-## 🖥️ tech stack 
+## 🖥️ tech stack
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center"><strong>Languages</strong></td>
-    <td align="center"><strong>Libraries</strong></td>
-    <td align="center"><strong>Tools</strong></td>
+    <td align="center"><strong>AI / ML</strong></td>
+    <td align="center"><strong>Frameworks & Data</strong></td>
+    <td align="center"><strong>Tools & Platforms</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/PYTHON-3670A0?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge&logo=google&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/VS CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/RSTUDIO-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/ORACLE VM-FF0000?style=for-the-badge&logo=virtualbox&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PYTHON IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SALESFORCE-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/STRIPE-635BFF?style=for-the-badge&logo=stripe&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/QUICKBOOKS-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white" />
     </td>
   </tr>
 </table>
